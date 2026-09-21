@@ -1,6 +1,6 @@
 # Hotel-Management-System-Desktop-App
 
-Historical Java desktop learning project from 2023, applying object-oriented programming and design patterns to hotel-management workflows.
+Historical Java desktop learning project from 2021, applying object-oriented programming and design patterns to hotel-management workflows.
 
 The repository includes application source, form definitions, UML diagrams, and the original NetBeans/Ant build files and generated artifacts. It covers workflows such as reservations, staff management, food orders, and customer queries.
 
